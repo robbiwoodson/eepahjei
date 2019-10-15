@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eikumeing.aces-center.com/sitemap.xml
